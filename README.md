@@ -78,20 +78,10 @@
 
 ###
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PritamKasar&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1800"
-    height="150"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=PritamKasar&theme=dracula&area=true"
-    alt="GitHub activity graph"
-  />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritamKasar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamKasar&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
