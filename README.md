@@ -9,7 +9,9 @@
 ###
 
 <h2 align="center">💫 About Me 💫</h2>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Pritam+Kasar;Full+Stack+Developer;Always+Learning+New+Things;Love+Building+Projects" />
+</p>
 
 
 ###
