@@ -10,13 +10,13 @@
 
 <h2 align="center">💫 About Me 💫</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Pritam+Kasar;Full+Stack+Engineer;Always+Learning+New+Things;Love+Building+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+I'm+Pritam+Kasar;Full-Stack+Generative+AI+Engineer;Always+Learning+New+Things;Love+Building+Projects" />
 </p>
 
 
 ###
 
-<p align="left">💻 Full Stack Developer building scalable web apps & RESTful APIs with Python, Django, React & SQL.<br>⚙️ Strong in backend optimization, clean UI, and secure integrations.<br>🧠 Solid foundations in DSA, OOP & Networks with projects like QR vending machines, attendance systems, and streaming platforms.<br>📊 Exploring Data Science, Machine Learning, and 🐳 Docker.</p>
+<p align="left">💻 Full-Stack Generative AI Engineer building scalable web apps & RESTful APIs with Python, Django, Fast API, React & SQL.<br>⚙️ Strong in backend optimization, clean UI, and secure integrations.<br>🧠 Solid foundations in DSA, OOP, LLM Integration and Orchestration & Networks with various projects.<br>📊 Exploring Data Science, Machine Learning, and 🐳 Docker.</p>
 
 ###
 
@@ -91,7 +91,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=PritamKasar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PritamKasar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PritamKasar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
